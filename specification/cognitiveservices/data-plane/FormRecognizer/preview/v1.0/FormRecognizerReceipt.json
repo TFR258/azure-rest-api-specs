@@ -196,8 +196,6 @@
     "elementReference": {
       "description": "Reference to an OCR word.",
       "properties": {
-        "$ref": {
-          "type": "string"
         }
       }
     },
